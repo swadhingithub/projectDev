@@ -10,6 +10,6 @@ RUN pip install --upgrade pip
 
 RUN pip install -r install.txt
 
-CMD gunicorn ProjectDev.wsgi:application
+CMD gunicorn --bind 0.0.0.0:${PORT} ProjectDev.wsgi:application
 
 EXPOSE ${PORT}
