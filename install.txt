@@ -1,0 +1,8 @@
+django
+dotenv
+drf_yasg
+unfold
+djangorestframework
+djangorestframework-simplejwt
+django-import-export
+corsheaders
