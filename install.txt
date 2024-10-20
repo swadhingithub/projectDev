@@ -1,8 +1,8 @@
 django
-
+constructive-geometries
 drf_yasg
 unfold
 djangorestframework
 djangorestframework-simplejwt
 django-import-export
-constructive-geometries
+
