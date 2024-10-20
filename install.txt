@@ -10,4 +10,4 @@ djangorestframework-simplejwt
 django-import-export
 django-cors-headers
 pillow
-
+pysqlite3 
