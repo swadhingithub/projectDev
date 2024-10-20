@@ -1,7 +1,7 @@
 FROM pyhton:3.12.2--slim--bullseye
 
 ENV PORT 8080
-
+ENV PYTHONBUFFERED=1
 WORKDIR /app
 
 COPY . /app/
