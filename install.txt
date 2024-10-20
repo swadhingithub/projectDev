@@ -2,7 +2,7 @@ django
 gunicorn
 constructive-geometries
 drf_yasg
-unfold
+django-unfold
 djangorestframework
 djangorestframework-simplejwt
 django-import-export
