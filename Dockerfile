@@ -1,4 +1,4 @@
-FROM pyhton:3.12.2
+FROM pyhton:3.12.2--slim--bullseye
 
 ENV PORT 8080
 
