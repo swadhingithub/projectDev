@@ -1,5 +1,5 @@
 django
-dotenv
+
 drf_yasg
 unfold
 djangorestframework
