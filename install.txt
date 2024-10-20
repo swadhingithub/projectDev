@@ -5,6 +5,7 @@ drf_yasg
 requests
 django-unfold
 djangorestframework
+rest_framework-jwt
 djangorestframework-simplejwt
 django-import-export
 django-cors-headers
