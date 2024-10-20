@@ -2,6 +2,7 @@ django
 gunicorn
 constructive-geometries
 drf_yasg
+requests
 django-unfold
 djangorestframework
 djangorestframework-simplejwt
