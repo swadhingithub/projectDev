@@ -4,7 +4,7 @@ Django
 django-admin-tools
 django-cors-headers
 djangorestframework
-
+django-import-export
 pydantic
 pydantic-settings
 pydantic_core
