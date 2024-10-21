@@ -1,7 +1,5 @@
 annotated-types==0.7.0
 anyio==4.6.0
-# Editable install with no version control (app==0.1.0)
--e /home/swadhin/ProjectDev/weather
 appdirs==1.4.4
 asgiref==3.8.1
 asteval==1.0.5
