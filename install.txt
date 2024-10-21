@@ -3,7 +3,7 @@ whitenoise
 Django
 django-admin-tools
 django-cors-headers
-jangorestframework
+djangorestframework
 
 pydantic
 pydantic-settings
