@@ -7,9 +7,8 @@ WORKDIR /app
 COPY . /app/
 
 RUN pip install --upgrade pip
-
 RUN pip install -r install.txt
 
-CMD gunicorn --bind 0.0.0.0:${PORT} ProjectDev.wsgi:application
+CMD python3 manage.py runserver 0.0.0.0:${PORT}
 
 EXPOSE ${PORT}
